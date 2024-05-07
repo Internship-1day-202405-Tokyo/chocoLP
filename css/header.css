@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* 全体 */
+html {
+    /* font-size: 10px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* メイン */
+main {
+    text-align: center;
+}
+
+/* ヘッダー */
+.top-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.top-container-item_right ul li a {
+    text-decoration: none;
+}
+
+.nav-container {
+    display: grid;
+    list-style: none;
+    grid-template-columns: 110px 110px 110px;
+}

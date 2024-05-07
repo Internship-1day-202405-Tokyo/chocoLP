@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* フッター */
+
+.footer-container-item {
+  text-align: center;
+}
+
+.footer-container-item ul li a {
+  text-decoration: none;
+  margin: 10px;
+}
+
+.nav-container {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+footer {
+  text-align: center;
+  height: 100px;
+}

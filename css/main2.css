@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* 全体 */
+html {
+    /* font-size: 10px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* メイン */
+main {
+    text-align: center;
+}
+
+#service-overview {
+    padding: 10px;
+    margin: auto;
+    margin: 50px auto;
+    color: #2c2c2f;
+    background: #FBDB0E;
+    max-width: 650px;
+}
+
+#service-details {
+    padding: 10px;
+    margin: auto;
+    margin: 0px auto;
+    color: #2c2c2f;
+    background: #FBDB0E;
+    max-width: 650px;
+}
